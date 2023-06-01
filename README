@@ -1,0 +1,5 @@
+GRAFURI, COMPONENTE CONEXE.
+Am avut de determinat numarul elementelor conexe si costul minim de acoperire pentru fiecare graf
+in implementare am folosit structuri
+
+Pentru ineput, am definit structurile necesare pentru graf, noduri. Am scris functiile de adaugare muchie, adaugare nod
