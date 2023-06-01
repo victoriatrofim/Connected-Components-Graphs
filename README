@@ -2,4 +2,7 @@ GRAFURI, COMPONENTE CONEXE.
 Am avut de determinat numarul elementelor conexe si costul minim de acoperire pentru fiecare graf
 in implementare am folosit structuri
 
-Pentru ineput, am definit structurile necesare pentru graf, noduri. Am scris functiile de adaugare muchie, adaugare nod
+Pentru ineput, am definit structurile necesare pentru graf, noduri. Am scris functiile de adaugare muchie, adaugare nod, 
+am folosit algoritmul de cautare DFS pentru parcurgerea grafului in adancime si calcularea nr de grafuri dupa fiecare parcurgere, marcand fiecare 
+valoare cu vizited. Pentru calculul costului minim am aplicat algoritmul Dijkstra si am printat ulterior numarul elementelor
+conexe si costurile minime pentru fiecare componenta.
